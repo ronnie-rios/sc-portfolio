@@ -1,8 +1,11 @@
 import React from 'react'
+import Landing from '../components/Landing'
 
 const HomePage = () => {
   return (
-    <div>HomePage</div>
+    <main className='max-w-screen-xl mx-auto'>
+        <Landing />
+    </main>
   )
 }
 
