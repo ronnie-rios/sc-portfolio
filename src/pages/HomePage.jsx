@@ -6,7 +6,7 @@ import Testomonial from '../components/Testomonial'
 
 const HomePage = () => {
   return (
-    <main className='max-w-screen-xl mx-auto'>
+    <main >
         <Landing />
         <About />
         <Services />
